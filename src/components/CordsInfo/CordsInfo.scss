@@ -1,0 +1,17 @@
+.cords {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  &__container {
+    background-color: rgb(255, 242, 225);
+    border: 2px solid bisque;
+    border-radius: 3px;
+  }
+
+  &__text {
+    font-weight: bold;
+    color: rgb(114, 96, 70);
+    margin-left: 10px;
+  }
+}

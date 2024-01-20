@@ -1,0 +1,51 @@
+.select__container {
+  display: flex;
+  gap: 20px;
+}
+
+.button {
+  height: 50px;
+  width: 90px;
+
+  background-color: rgb(0, 86, 245);
+  outline: none;
+  border: none;
+  border-radius: 6px;
+
+  font-size: 12px;
+
+  text-transform: uppercase;
+  color: white;
+
+  transition: all 0.4s ease-in-out;
+
+  &:hover {
+    border: 1px solid black;
+  }
+
+  &.is-active {
+    background-color: rgb(255, 91, 91)
+  }
+}
+
+.select {
+  width: 190px;
+
+  outline: none;
+  border-radius: 0;
+  
+  padding-inline: 6px;
+
+  transition: all 0.4s ease-in-out;
+
+  &:hover {
+    border: 1px solid black;
+  }
+
+  &--error {
+    color: red;
+    line-height: 50px;
+    margin: 0;
+    text-align: center;
+  }
+}
