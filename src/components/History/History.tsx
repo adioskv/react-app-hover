@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
 import { ActiveContext } from '../../context/ActiveContext'
-import './History.scss'
 import { CordsInfo } from '../CordsInfo/CordsInfo';
 import './History.scss'
 
