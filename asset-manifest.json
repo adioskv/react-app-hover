@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-app-hover/static/css/main.7a7406c0.css",
+    "main.css": "/react-app-hover/static/css/main.5e5b20d2.css",
     "main.js": "/react-app-hover/static/js/main.2c59ace0.js",
     "index.html": "/react-app-hover/index.html",
-    "main.7a7406c0.css.map": "/react-app-hover/static/css/main.7a7406c0.css.map",
+    "main.5e5b20d2.css.map": "/react-app-hover/static/css/main.5e5b20d2.css.map",
     "main.2c59ace0.js.map": "/react-app-hover/static/js/main.2c59ace0.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a7406c0.css",
+    "static/css/main.5e5b20d2.css",
     "static/js/main.2c59ace0.js"
   ]
 }
